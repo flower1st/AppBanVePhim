@@ -1,0 +1,30 @@
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\bin\Debug\BanVePhim.exe.config
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\bin\Debug\BanVePhim.exe
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\bin\Debug\BanVePhim.pdb
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.AssemblyReference.cache
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.frmBanVe.resources
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.Properties.Resources.resources
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.GenerateResource.cache
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.CoreCompileInputs.cache
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.exe
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.pdb
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\bin\Debug\EntityFramework.dll
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\bin\Debug\EntityFramework.xml
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Summerist\source\repos\BanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.CopyComplete
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\bin\Debug\BanVePhim.exe.config
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\bin\Debug\BanVePhim.exe
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\bin\Debug\BanVePhim.pdb
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\bin\Debug\EntityFramework.dll
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\bin\Debug\EntityFramework.xml
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.AssemblyReference.cache
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.frmBanVe.resources
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.Properties.Resources.resources
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.GenerateResource.cache
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.CoreCompileInputs.cache
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.csproj.CopyComplete
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.exe
+C:\Users\emlah\OneDrive\Desktop\MernStack js\AppBanVePhim\BanVePhim\obj\Debug\BanVePhim.pdb
